@@ -19,6 +19,8 @@ Reachable only when you type them (`disable-model-invocation: true`).
 
 Model- or user-reachable (rich trigger phrasing so the model can reach for them).
 
+- **[android-music-modernization](./android-music-modernization/SKILL.md)** — Guarded, phase-by-phase execution for the specific multi-flavor Android music app using its Revision 10 Agent Pack; blocks unapproved phases and enforces flavor, Media3, data, security, test, and rollback gates.
+
 - **[prototype](./prototype/SKILL.md)** — Build a throwaway prototype to answer a design question: a runnable terminal app for state/logic, or several toggleable UI variations.
 
 - **[diagnosing-bugs](./diagnosing-bugs/SKILL.md)** — Disciplined diagnosis loop for hard bugs and performance regressions: reproduce → minimise → hypothesise → instrument → fix → regression-test.

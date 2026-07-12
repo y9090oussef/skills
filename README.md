@@ -161,6 +161,8 @@ Skills I use daily for code work.
 
 **Model-invoked**
 
+- **[android-music-modernization](./skills/engineering/android-music-modernization/SKILL.md)** — Project-specific Revision 10 control plane for the New_Mahrgnat Android music app; executes one approved phase with source, official-doc, flavor, test, and rollback gates.
+
 - **[prototype](./skills/engineering/prototype/SKILL.md)** — Build a throwaway prototype to answer a design question — a runnable terminal app for state/logic questions, or several radically different UI variations toggleable from one route.
 - **[diagnosing-bugs](./skills/engineering/diagnosing-bugs/SKILL.md)** — Disciplined diagnosis loop for hard bugs and performance regressions: reproduce → minimise → hypothesise → instrument → fix → regression-test.
 - **[research](./skills/engineering/research/SKILL.md)** — Investigate a question against high-trust primary sources and capture the findings as a cited Markdown file in the repo, run as a background agent.
